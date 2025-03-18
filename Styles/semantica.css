@@ -1,0 +1,28 @@
+/* Selector de etiqueta */
+body {
+    background-color: #FFEDFA;
+}
+
+header {
+    background-color: #b278e9;
+    width: 100%;
+    height: 200px;
+    color: rgb(48, 48, 196);
+
+}
+
+li {
+    background-color: #b278e9;
+    color: rgb(48, 48, 196);
+}
+
+/* Selector de clase */
+.contenedor {
+    border: solid black;
+}
+
+/* Selector de ID */
+#list-unique {
+    background-color: aquamarine;
+    font-size: 21px;
+}
